@@ -1,0 +1,20 @@
+{
+    "hospitals": [
+      {
+        "name": "Hospital Amirtha",
+        "patientCount": 100,
+        "location": "kottayam"
+      },
+      {
+        "name": "Hospital navabharath",
+        "patientCount": 75,
+        "location": "idukki"
+      },
+      {
+        "name": "Hospital Chithra",
+        "patientCount": 150,
+        "location": "kollam"
+      }
+    ]
+  }
+  
